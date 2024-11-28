@@ -45,7 +45,7 @@ Este projeto realiza a análise e manipulação de Notas Fiscais Eletrônicas (N
 ```Bash
 #Comando para clonar o projeto utilizando o Git
 
-git clone <URL-do-repositorio>
+git clone https://github.com/Mysterioun/PortalNF
 
 ```
 
