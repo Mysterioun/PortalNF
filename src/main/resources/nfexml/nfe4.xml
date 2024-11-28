@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nfeProc SYSTEM "dtd/nfe.dtd">
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe43240447960950176831550020005316881081752794">
+            <ide>
+                <cUF>43</cUF>
+                <cNF>08175279</cNF>
+                <natOp>VENDA MERCADORIA ADQUIR/RECEB TERCEIROS TP:51</natOp>
+                <mod>55</mod>
+                <serie>2</serie>
+                <nNF>1869156</nNF>
+                <dhEmi>2024-04-05T20:15:29-03:00</dhEmi>
+                <dhSaiEnt>2024-04-05T20:15:29-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>4309209</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>4</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>2</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>3.121.1</verProc>
+            </ide>
+            <emit>
+                <CNPJ>47960950176831</CNPJ>
+                <xNome>MAGAZINE LUIZA S/A</xNome>
+                <xFant>CD5210</xFant>
+                <enderEmit>
+                    <xLgr>RS-118</xLgr>
+                    <nro>12707</nro>
+                    <xBairro>NEOPOLIS</xBairro>
+                    <cMun>4309209</cMun>
+                    <xMun>GRAVATAI</xMun>
+                    <UF>RS</UF>
+                    <CEP>94100420</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>55991327851</fone>
+                </enderEmit>
+                <IE>260270831110</IE>
+                <IM>208486</IM>
+                <CNAE>4751201</CNAE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CPF>11111111111</CPF>
+                <xNome>MARIA LUCIA RODRIGUES</xNome>
+                <enderDest>
+                    <xLgr>Rua Padre Julio Sachet</xLgr>
+                    <nro>04</nro>
+                    <xCpl>Casa</xCpl>
+                    <xBairro>Nossa Senhora do Perpetuo Socorro</xBairro>
+                    <cMun>4316907</cMun>
+                    <xMun>Santa Maria</xMun>
+                    <UF>RS</UF>
+                    <CEP>97045380</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>5599888888</fone>
+                </enderDest>
+                <indIEDest>9</indIEDest>
+                <email>marialucia@gmail.com</email>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>7754319</cProd>
+                    <cEAN>7899882316575</cEAN>
+                    <xProd>SECADOR CABELOS MONDIAL SCN04 PRETO/PRATA 220V</xProd>
+                    <NCM>85163100</NCM>
+                    <cBenef>SC850048</cBenef>
+                    <CFOP>5102</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>88.10</vUnCom>
+                    <vProd>88.10</vProd>
+                    <cEANTrib>7899882316575</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>88.10</vUnTrib>
+                    <indTot>1</indTot>
+                    <nItemPed>1</nItemPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>63.79</vTotTrib>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>5</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>98.00</vBC>
+                            <pICMS>17.00</pICMS>
+                            <vICMS>16.66</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>88.10</vBC>
+                            <pPIS>17.0000</pPIS>
+                            <vPIS>16.66</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>88.10</vBC>
+                            <pCOFINS>4.00</pCOFINS>
+                            <vCOFINS>2.74</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                    <ICMSUFDest>
+                        <vBCUFDest>88.10</vBCUFDest>
+                        <vBCFCPUFDest>88.10</vBCFCPUFDest>
+                        <pFCPUFDest>0.0000</pFCPUFDest>
+                        <pICMSUFDest>17.0000</pICMSUFDest>
+                        <pICMSInter>4.00</pICMSInter>
+                        <pICMSInterPart>100.0000</pICMSInterPart>
+                        <vFCPUFDest>0.00</vFCPUFDest>
+                        <vICMSUFDest>3.22</vICMSUFDest>
+                        <vICMSUFRemet>0.00</vICMSUFRemet>
+                    </ICMSUFDest>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>98.99</vBC>
+                    <vICMS>16.66</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>88.10</vProd>
+                    <vFrete>9.90</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.20</vPIS>
+                    <vCOFINS>0.00</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>98.00</vNF>
+                    <vTotTrib>73.00</vTotTrib>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <xNome>Magalu Entregas</xNome>
+                </transporta>
+                <vol>
+                    <qVol>1</qVol>
+                    <esp>VOLUMES</esp>
+                    <pesoL>0.770</pesoL>
+                    <pesoB>0.770</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>1869156</nFat>
+                    <vOrig>88.10</vOrig>
+                    <vDesc>0</vDesc>
+                    <vLiq>88.10</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2024-04-05</dVenc>
+                    <vDup>88.10</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>01</tPag>
+                    <vPag>98.00</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>Val Aprox Tributos R$34,45(35,15%) Fonte:IBPT FEDERAIS 18,15%,ESTADUAIS 17,00%,MUNICIPAIS 0%NUM. PEDIDO:954173221 / CODCLI:111668873 / LOTE:303923 / CODVENDR:6001 / OBS.PED:REF.: (55 ) 991445885 - PONTO REFERENCIA = PROXIMO A CASA DE SAUDE / CELULAR:55-991159350 / MODAL: ESE - A aceitacao desta mercadoria implica autorizacao do cliente/consumidor a empresa vendedora para obter a restituicao de quaisquer tributos incidentes nesta operacao, inclusive do ICMS DIFAL incidente nesta venda, nos termos do art. 166 do CTN.</infCpl>            </infAdic>
+            <infRespTec>
+                <CNPJ>00910509000171</CNPJ>
+                <xContato>Douglas de Souza Pereira</xContato>
+                <email>douglas.pereira@thomsonreuters.com</email>
+                <fone>1147009050</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe42230507993973000380550010018691561169819305">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>IcgCJWzozBH+nFACt99Gyt4VI/M=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>bw6+5K2zS/eEOpcGJozkjsAEC+RLfyAds0oZUNxCRiA9Ovpn00AxeVnkrd1soB10jkk3Vfg6yy4GD3dpnPSBUyY76qj9leiCtWqK3qTBGAoaSUUT+f5hlAheHjkMN7aktTbOgeapgcRuERHWc7GRGxLPmCvCg4f47oIYj3EnVJm6E6MgQvQ9nnBaG32oQA+lPUMuUwjRrvoD/Qeuf5dJZlxgS5hqt9vx+0Rs6fLSrdIm5zZIB7j7vaZT7wuuWi2nu1UbjQWcwDHluUmxTUf3n4wTUyBI/u+X16qsvgAqqws0b2JhiL0NMTidcImD3IwUkLmWhGbfz363IwWW+5MVcw==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>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</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>RS202401251654</verAplic>
+            <chNFe>43240447960950176831550020005316881081752794</chNFe>
+            <dhRecbto>2024-04-05T20:15:30-03:00</dhRecbto>
+            <nProt>143240083983832</nProt>
+            <digVal>IcgCJWzozBH+nFACt99Gyt4VI/M=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nfeProc SYSTEM "dtd/nfe.dtd">
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe versao="4.00" Id="NFe42230507993973000380550010018691561169819305">
+            <ide>
+                <cUF>42</cUF>
+                <cNF>16981930</cNF>
+                <natOp>Venda de mercadorias</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>1869156</nNF>
+                <dhEmi>2023-05-11T10:51:12-03:00</dhEmi>
+                <dhSaiEnt>2023-05-11T10:51:12-03:00</dhSaiEnt>
+                <tpNF>1</tpNF>
+                <idDest>2</idDest>
+                <cMunFG>4209102</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>5</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>1</indFinal>
+                <indPres>2</indPres>
+                <indIntermed>0</indIntermed>
+                <procEmi>0</procEmi>
+                <verProc>Bling 1.0</verProc>
+            </ide>
+            <emit>
+                <CNPJ>40970946000103</CNPJ>
+                <xNome>Shop Aquarela LTDA</xNome>
+                <xFant>Shop Aquarela</xFant>
+                <enderEmit>
+                    <xLgr>Rua Uruguaiana</xLgr>
+                    <nro>893</nro>
+                    <xBairro>Sao Francisco</xBairro>
+                    <cMun>3511102</cMun>
+                    <xMun>Catanduva</xMun>
+                    <UF>SP</UF>
+                    <CEP>15806100</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>5517996142334</fone>
+                </enderEmit>
+                <IE>260270831110</IE>
+                <IM>208486</IM>
+                <CNAE>4751201</CNAE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CPF>11111111111</CPF>
+                <xNome>CHRISTIAN ALVES</xNome>
+                <enderDest>
+                    <xLgr>Rua Padre Julio Sachet</xLgr>
+                    <nro>04</nro>
+                    <xCpl>Casa</xCpl>
+                    <xBairro>Nossa Senhora do Perpetuo Socorro</xBairro>
+                    <cMun>4316907</cMun>
+                    <xMun>Santa Maria</xMun>
+                    <UF>RS</UF>
+                    <CEP>97045380</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>Brasil</xPais>
+                    <fone>5599999999</fone>
+                </enderDest>
+                <indIEDest>9</indIEDest>
+                <email>christian@gmail.com</email>
+            </dest>
+            <det nItem="1">
+                <prod>
+                    <cProd>CT</cProd>
+                    <cEAN>7801058924125</cEAN>
+                    <xProd>Cabo Carregador Turbo Reforcado 2 Metros USB-C (Tipo C)</xProd>
+                    <NCM>85444900</NCM>
+                    <cBenef>SC850048</cBenef>
+                    <CFOP>6106</CFOP>
+                    <uCom>un</uCom>
+                    <qCom>1.0000</qCom>
+                    <vUnCom>24.99</vUnCom>
+                    <vProd>24.99</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>un</uTrib>
+                    <qTrib>1.0000</qTrib>
+                    <vUnTrib>24.99</vUnTrib>
+                    <indTot>1</indTot>
+                    <nItemPed>1</nItemPed>
+                </prod>
+                <imposto>
+                    <vTotTrib>63.79</vTotTrib>
+                    <ICMS>
+                        <ICMS00>
+                            <orig>2</orig>
+                            <CST>00</CST>
+                            <modBC>3</modBC>
+                            <vBC>24.99</vBC>
+                            <pICMS>4.0000</pICMS>
+                            <vICMS>0.99</vICMS>
+                        </ICMS00>
+                    </ICMS>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>24.99</vBC>
+                            <pPIS>0.65</pPIS>
+                            <vPIS>0.16</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>24.99</vBC>
+                            <pCOFINS>3.00</pCOFINS>
+                            <vCOFINS>0.74</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                    <ICMSUFDest>
+                        <vBCUFDest>24.99</vBCUFDest>
+                        <vBCFCPUFDest>24.99</vBCFCPUFDest>
+                        <pFCPUFDest>0.0000</pFCPUFDest>
+                        <pICMSUFDest>17.0000</pICMSUFDest>
+                        <pICMSInter>4.00</pICMSInter>
+                        <pICMSInterPart>100.0000</pICMSInterPart>
+                        <vFCPUFDest>0.00</vFCPUFDest>
+                        <vICMSUFDest>3.22</vICMSUFDest>
+                        <vICMSUFRemet>0.00</vICMSUFRemet>
+                    </ICMSUFDest>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>24.99</vBC>
+                    <vICMS>0.99</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>24.99</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.16</vPIS>
+                    <vCOFINS>0.74</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>24.99</vNF>
+                    <vTotTrib>63.79</vTotTrib>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>0</modFrete>
+                <transporta>
+                    <xNome>Magalu Entregas</xNome>
+                </transporta>
+                <vol>
+                    <qVol>1</qVol>
+                    <esp>CX</esp>
+                    <pesoL>0.100</pesoL>
+                    <pesoB>0.100</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>1869156</nFat>
+                    <vOrig>24.99</vOrig>
+                    <vDesc>0</vDesc>
+                    <vLiq>24.99</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2024-07-03</dVenc>
+                    <vDup>24.99</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <tPag>01</tPag>
+                    <vPag>24.99</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infCpl>Nota fiscal de retorno simbolico n 7014, emitida em 03/07/2024, serie 9, nos termos da Portaria CAT 31/2019 Enviado diretamente do deposito temporario - operador logistico: 300 - MAGALU LOG SERVICOS LOGISTICOS LTDA, CNPJ: 24230747000285 saindo do endereco: RODOVIA DOS BANDEIRANTES, Numero: 00, Complemento: . KM 68 E 760 METROS SETOR L, Bairro: RIO ABAIXO, Cidade: Louveira, Cep: 13290000, Estado: SP, Pais: BR. Valor Aproximado dos Tributos (IBPT): 9</infCpl>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>07623088000490</CNPJ>
+                <xContato>Squad Faturador Fulfillment</xContato>
+                <email>squad-faturador-fulfillment@luizalabs.com</email>
+                <fone>1111111111</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe42230507993973000380550010018691561169819305">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>+bkT0ycmqL2xQ1vMQqvnVDU8a+8=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue> kix4tO6jWKdCnGbzC6FGUtwJozNjFR5anqFTQzqQ1S0D8FgJPOTKIpCqIuRkquSNA6j/4AoDhKpTh8DO1H4AYvceee3Yd7Zh+W/0l2zefLIx1wv01yLm3eAKd8wyGVEIjmrfy6+OdsUHMXFthGEtR8nRBh8ObExrBXvrR/9IiS+2m1mcMdOB/zKlLiRo12GeCrxbNTyh6v7uhbiZ+X3HHtwRYCdnFpRq9LsXZvL1e4GDEbDl6SBGyrQ/RsUCH3ReOHVPGGx8rj+WzpY9p2NwgZYmsOx4gmbdQ+bWTLRWKAa2eYNr4e+o++2qLs/Bjoc7o9GyLtIvxuUOobeCnUC7qQ==
+            </SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate> 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
+                    </X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>SP_NFE_PL009_V4</verAplic>
+            <chNFe>35240740970946000103550090000070151147473777</chNFe>
+            <dhRecbto>2024-07-03T20:28:40-03:00</dhRecbto>
+            <nProt>135241421002264</nProt>
+            <digVal>9y7DGp45XYEYRdOrwSryAIZ+AJU=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
